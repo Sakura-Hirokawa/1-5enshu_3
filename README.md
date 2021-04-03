@@ -1,2 +1,2 @@
-# DMM WEBCAMPコンテンツ【Gitを学ぼう】
-DMM WEBCAMPの学習コンテンツGitを学ぼう5章演習問題の3回目です。
+# DMM WEBCAMPコンテンツ【HTML・CSSを学ぼう】
+DMM WEBCAMPの学習コンテンツHTML・CSSを学ぼう2章演習問題の3回目です。
